@@ -1,6 +1,10 @@
 {
     "name": "vitruvian",
+    "publisher": "mmerle",
     "displayName": "Vitruvian",
+    "repository": {
+        "url": "https://github.com/mmerle/vitruvian"
+    },
     "description": "minimal code theme",
     "version": "0.0.1",
     "engines": {
