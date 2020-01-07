@@ -1,0 +1,21 @@
+{
+    "name": "vitruvian",
+    "displayName": "Vitruvian",
+    "description": "minimal code theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Vitruvian",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vitruvian-color-theme.json"
+            }
+        ]
+    }
+}
