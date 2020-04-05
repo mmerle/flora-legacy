@@ -1,12 +1,25 @@
 {
   "name": "vitruvian",
-  "publisher": "merle",
   "displayName": "Vitruvian",
+  "version": "0.1.0",
+  "license": "MIT",
+  "publisher": "merle",
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#111111",
+    "theme": "dark"
+  },
   "repository": {
+    "type": "git",
     "url": "https://github.com/mmerle/vitruvian"
   },
   "description": "minimal code theme",
-  "version": "0.0.1",
+  "keywords": [
+    "theme",
+    "dark theme",
+    "minimal",
+    "subtle"
+  ],
   "engines": {
     "vscode": "^1.41.0"
   },
