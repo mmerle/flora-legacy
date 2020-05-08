@@ -1,3 +1,3 @@
 # Vitruvian
 
-minimal code theme
+all conditions coding theme
