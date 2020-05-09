@@ -6,6 +6,14 @@
 - Theme documentation
 - Demos
 
+**0.1.3**
+
+- Improve punctuation contrast
+- Updated yellows
+- Fixed widget code contrast
+- Improved sass/css modules support
+- Unhide scrollbar
+
 **0.1.2**
 
 - Updated colors
