@@ -1,10 +1,14 @@
 # Changelog
 
-**Unreleased**
+**Upcoming**
 
-- Simplify scopes/tokens
 - Theme documentation
 - Demos
+
+**0.2**
+
+- Name change, introducing `Flora`
+- Improved color scheme
 
 **0.1.3**
 
