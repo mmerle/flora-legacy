@@ -1,7 +1,8 @@
 {
   "name": "flora",
   "displayName": "Flora",
-  "version": "0.1.3",
+  "description": "all conditions code theme",
+  "version": "0.2",
   "license": "MIT",
   "publisher": "merle",
   "icon": "assets/icon.png",
@@ -11,9 +12,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mmerle/vitruvian"
+    "url": "https://github.com/mmerle/flora"
   },
-  "description": "all conditions code theme",
   "keywords": [
     "theme",
     "dark theme",
@@ -29,9 +29,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Vitruvian",
+        "label": "Flora",
         "uiTheme": "vs-dark",
-        "path": "./themes/vitruvian-color-theme.json"
+        "path": "./themes/color-theme.json"
       }
     ]
   }
