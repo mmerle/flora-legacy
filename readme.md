@@ -1,3 +1,3 @@
-# Flora
+# Flora (Beta)
 
-all conditions coding theme
+Ready to code syntax theme for all conditions
