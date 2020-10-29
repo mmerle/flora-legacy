@@ -2,25 +2,34 @@
 
 **Upcoming**
 
+- Merge support
+- Minimap support
 - Theme documentation
 - Demos
+- Recommended settings
+
+**0.2.2**
+
+- Syntax color improvements
+- Darker base UI color 👀
+- Fuzzy search highlight
+- UI Depth improvements
+- Revised terminal colors
 
 **0.2**
 
 - Name change, introducing `Flora`
-- Improved color scheme
+- New improved color scheme
 
 **0.1.3**
 
 - Improve punctuation contrast
-- Updated yellows
 - Fixed widget code contrast
 - Improved sass/css modules support
 - Unhide scrollbar
 
 **0.1.2**
 
-- Updated colors
 - Integrated terminal support
 - Highlight current line number
 - 100% UI coverage
