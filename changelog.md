@@ -8,6 +8,10 @@
 - Demos
 - Recommended settings
 
+**0.2.3**
+
+- Minimal promo added
+
 **0.2.2**
 
 - Syntax color improvements
