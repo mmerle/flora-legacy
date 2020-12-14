@@ -1,0 +1,25 @@
+on:
+  workflow_dispatch:
+  push:
+    branches: [ master ]
+    paths-ignore: 
+      - '.vscode/**'
+      - '.github/**'
+      - '.*'
+      - '*.md'
+  
+name: Publish  
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: 'bump version'
+        uses: 'phips28/gh-action-bump-version@master'
+        with:
+          tag-prefix: ''
+      - uses: lannonbr/vsce-action@master
+        with:
+          args: 'publish -p $VSCE_TOKEN'
+        env:
+          VSCE_TOKEN: ${{ secrets.PAT }}
