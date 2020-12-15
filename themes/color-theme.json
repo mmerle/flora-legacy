@@ -125,7 +125,7 @@
 
     /* editorCursor. */
     "editorCursor.background": "#0000",
-    "editorCursor.foreground": "#e9e8e666",
+    "editorCursor.foreground": "#9dd0d980",
 
     /* editorError. */
     "editorError.border": "#0000",
@@ -576,7 +576,7 @@
 
     /* terminalCursor. */
     "terminalCursor.background": "#151618ff",
-    "terminalCursor.foreground": "#9DD0D980",
+    "terminalCursor.foreground": "#9dd0d980",
 
     /* textBlockQuote. */
     "textBlockQuote.background": "#1A1B1Dff",
