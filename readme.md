@@ -4,4 +4,4 @@
 
 Ready to code syntax theme for all conditions
 
-![Preview](https://github.com/mmerle/flora/blob/main/assets/example.png)
+![Preview](https://github.com/mmerle/flora/raw/main/assets/example.png)
