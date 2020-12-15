@@ -8,6 +8,10 @@
 - Demos
 - Recommended settings
 
+**0.2.4**
+
+- Changed editor cursor color
+
 **0.2.3**
 
 - Minimal promo added
