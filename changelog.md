@@ -2,11 +2,18 @@
 
 **Upcoming**
 
-- Merge support
-- Minimap support
 - Theme documentation
 - Demos
 - Recommended settings
+
+**0.2.7**
+
+- Overview ruler support
+- Minimap support
+- Merge support
+- Major UI consistency improvements
+- Minor syntax color improvements
+- More _italics_
 
 **0.2.4**
 
