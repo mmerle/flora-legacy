@@ -1,5 +1,5 @@
 .DS_Store
 *.vsix
 node_modules
-scheme.md
+palette.md
 .vscode
