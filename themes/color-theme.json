@@ -173,7 +173,7 @@
 
     /* editorLineNumber. */
     "editorLineNumber.activeForeground": "#e9e8e6ff",
-    "editorLineNumber.foreground": "#60697460",
+    "editorLineNumber.foreground": "#60697480",
 
     /* editorLink. */
     "editorLink.activeForeground": "#f7c8c2ff",
@@ -286,7 +286,6 @@
     "list.errorForeground": "#eb6f92",
     "list.filterMatchBackground": "#1d1e21",
     "list.filterMatchBorder": "#f7c8c2",
-    "list.focusBackground": "#6069742a",
     "list.focusForeground": "#e9e8e6",
     "list.highlightForeground": "#2acbdd",
     "list.hoverBackground": "#6069741a",
@@ -398,6 +397,7 @@
     /* quickInput. */
     "quickInput.background": "#1d1e21",
     "quickInput.foreground": "#606974",
+    "quickInput.list.focusBackground": "#6069742a",
 
     /* scrollbar. */
     "scrollbar.shadow": "#0000",
@@ -413,7 +413,7 @@
     "searchEditor.textInputBorder": "#0000",
 
     /* selection. */
-    "selection.background": "#6069741a",
+    "selection.background": "#9dd0d92a",
 
     /* settings. */
     "settings.checkboxBackground": "#1d1e21",

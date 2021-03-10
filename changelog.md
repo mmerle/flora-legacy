@@ -5,6 +5,17 @@
 - Theme documentation
 - Demos
 - Recommended settings
+- Light variant
+
+**1.0.1**
+
+- Fix for vscodes updated list styles
+- Improved text selection contrast in menus
+- Improved line number contrast
+
+**1.0.0**
+
+- Premature 1.0 release thanks to marketplace 🙃
 
 **0.2.7**
 
