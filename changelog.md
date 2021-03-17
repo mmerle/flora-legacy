@@ -1,66 +1,107 @@
 # Changelog
 
-**Upcoming**
+## Upcoming
 
 - Theme documentation
 - Demos
 - Recommended settings
 - Light variant
+- Theme screenshots
 
-**1.0.1**
+## 1.0.4
 
-- Fix for vscodes updated list styles
-- Improved text selection contrast in menus
-- Improved line number contrast
+### 🟢 New
 
-**1.0.0**
+- New green syntax color
+
+### 🔵 Improvements
+
+- More subtle active colour
+- Improved changelog
+
+## 1.0.3
+
+### 🟢 New
+
+- Theme screenshots
+
+### 🔵 Improvements
+
+- Text selection contrast in menus
+- Line number contrast
+
+### 🔴 Fixes
+
+- Change for vscodes updated list styles
+
+## 1.0.0
 
 - Premature 1.0 release thanks to marketplace 🙃
 
-**0.2.7**
+## 0.2.7
+
+### 🟢 New
 
 - Overview ruler support
 - Minimap support
 - Merge support
-- Major UI consistency improvements
-- Minor syntax color improvements
 - More _italics_
 
-**0.2.4**
+### 🔵 Improvements
 
-- Changed editor cursor color
+- UI consistency
+- Syntax colors
 
-**0.2.3**
+## 0.2.4
 
-- Minimal promo added
+### 🟢 New
 
-**0.2.2**
-
-- Syntax color improvements
-- Darker base UI color 👀
 - Fuzzy search highlight
-- UI Depth improvements
+
+### 🔵 Improvements
+
+- Editor cursor color
+- Darker base UI color 👀
+- Syntax colors
+- UI depth
 - Revised terminal colors
 
-**0.2**
+## 0.2
+
+### 🟢 New
 
 - Name change, introducing `Flora`
-- New improved color scheme
 
-**0.1.3**
+### 🔵 Improvements
 
-- Improve punctuation contrast
-- Fixed widget code contrast
-- Improved sass/css modules support
+- Modified color scheme
+
+## 0.1.3
+
+### 🟢 New
+
 - Unhide scrollbar
 
-**0.1.2**
+### 🔵 Improvements
+
+- Punctuation contrast
+- Widget code contrast
+- Better sass/css modules support
+
+## 0.1.2
+
+### 🟢 New
 
 - Integrated terminal support
 - Highlight current line number
 - 100% UI coverage
+
+### 🔵 Improvements
+
 - Imporved syntax support
 
-**0.1.0**
+## 0.1.0
 
-- Initial release
+### 🟢 New
+
+- First release
