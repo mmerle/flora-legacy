@@ -397,7 +397,7 @@
     /* quickInput. */
     "quickInput.background": "#1d1e21",
     "quickInput.foreground": "#606974",
-    "quickInput.list.focusBackground": "#6069742a",
+    "quickInputList.focusBackground": "#6069742a",
 
     /* scrollbar. */
     "scrollbar.shadow": "#0000",
