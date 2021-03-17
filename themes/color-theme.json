@@ -287,7 +287,7 @@
     "list.filterMatchBackground": "#1d1e21",
     "list.filterMatchBorder": "#f7c8c2",
     "list.focusForeground": "#e9e8e6",
-    "list.highlightForeground": "#2acbdd",
+    "list.highlightForeground": "#9dd0d9",
     "list.hoverBackground": "#6069741a",
     "list.hoverForeground": "#e9e8e6",
     "list.inactiveFocusBackground": "#6069741a",
@@ -596,7 +596,7 @@
     {
       "scope": ["comment"],
       "settings": {
-        "foreground": "#606974",
+        "foreground": "#606974a1",
         "fontStyle": "italic"
       }
     },
@@ -604,7 +604,7 @@
     {
       "scope": ["constant"],
       "settings": {
-        "foreground": "#d1aeffff"
+        "foreground": "#31748F"
       }
     },
     {
@@ -629,7 +629,7 @@
     {
       "scope": ["entity.name.section", "entity.name.tag", "entity.name.namespace", "entity.name.type"],
       "settings": {
-        "foreground": "#9DD0D9"
+        "foreground": "#9dd0d9ff"
       }
     },
     {
@@ -641,7 +641,7 @@
     {
       "scope": ["entity.other.attribute-name", "entity.other.inherited-class"],
       "settings": {
-        "foreground": "#2acbddff",
+        "foreground": "#d1aeffff",
         "fontStyle": "italic"
       }
     },
@@ -745,7 +745,7 @@
     {
       "scope": ["entity.name.section.markdown"],
       "settings": {
-        "foreground": "#2acbdd"
+        "foreground": "#9dd0d9"
       }
     },
 
@@ -765,13 +765,13 @@
     {
       "scope": ["punctuation.definition.string"],
       "settings": {
-        "foreground": "#bea5f8"
+        "foreground": "#f6c177"
       }
     },
     {
       "scope": ["punctuation.definition.tag"],
       "settings": {
-        "foreground": "#9dd0d975"
+        "foreground": "#606974a1"
       }
     },
     {
@@ -810,7 +810,7 @@
     {
       "scope": ["string"],
       "settings": {
-        "foreground": "#d1aeff"
+        "foreground": "#f6c177"
       }
     },
     /* support. */
@@ -864,7 +864,7 @@
     {
       "scope": ["variable.parameter"],
       "settings": {
-        "foreground": "#f6c177",
+        "foreground": "#abf0d7",
         "fontStyle": "italic"
       }
     }
