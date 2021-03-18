@@ -8,11 +8,21 @@
 - Light variant
 - Theme screenshots
 
+## 1.0.5
+
+### 🟢 New
+
+- Support for block cursor
+
+### 🔵 Improvements
+
+- Simplified and refined colour palette
+
 ## 1.0.4
 
 ### 🟢 New
 
-- New green syntax color
+- New green syntax colour
 
 ### 🔵 Improvements
 
