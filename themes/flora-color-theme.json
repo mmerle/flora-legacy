@@ -250,6 +250,7 @@
     "gitDecoration.modifiedResourceForeground": "#f6c177",
     "gitDecoration.submoduleResourceForeground": "#2491a9",
     "gitDecoration.untrackedResourceForeground": "#2491a9",
+    "gitDecoration.renamedResourceForeground": "#d1aeff",
 
     /* icon. */
     "icon.foreground": "#606974",
