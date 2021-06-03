@@ -3,8 +3,9 @@
   "displayName": "Flora",
   "description": "Ready to code syntax theme for all conditions",
   "version": "1.0.8",
-  "license": "MIT",
+  "preview": true,
   "publisher": "merle",
+  "license": "MIT",
   "icon": "assets/icon.png",
   "galleryBanner": {
     "color": "#111111",
