@@ -870,13 +870,13 @@
     {
       "scope": ["support.class", "support.type.object"],
       "settings": {
-        "foreground": "#9DD0D9ff"
+        "foreground": "#9dd0d9ff"
       }
     },
     {
       "scope": ["support.class.console.js", "support.class.component.js"],
       "settings": {
-        "foreground": "#9DD0D9ff"
+        "foreground": "#9dd0d9ff"
       }
     },
     /* text. */
