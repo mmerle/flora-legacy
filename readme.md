@@ -1,5 +1,5 @@
 <p align="center">
-    <h2 align="center">Flora</h2>
+    <h1 align="center">Flora for VSCode</h1>
 </p>
 
 <p align="center">Ready to code syntax theme for all conditions</p>
