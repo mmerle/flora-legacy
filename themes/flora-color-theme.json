@@ -175,7 +175,7 @@
     "editorLineNumber.foreground": "#60697480",
 
     /* editorLink. */
-    "editorLink.activeForeground": "#f4b1e1",
+    "editorLink.activeForeground": "#d7aafd",
 
     /* editorMarkerNavigation. */
     "editorMarkerNavigation.background": "#1f2023",
@@ -348,7 +348,7 @@
     "notificationCenter.border": "#60697433",
     "notificationCenterHeader.background": "#1A1B1Dff",
     "notificationCenterHeader.foreground": "#606974ff",
-    "notificationLink.foreground": "#f4b1e1",
+    "notificationLink.foreground": "#d7aafd",
     "notifications.background": "#1f2023",
     "notifications.border": "#1a1b1e",
     "notifications.foreground": "#e9e8e6",
@@ -558,8 +558,8 @@
     "textCodeBlock.background": "#6069741a",
 
     /* textLink. */
-    "textLink.activeForeground": "#f4b1e1",
-    "textLink.foreground": "#f4b1e1",
+    "textLink.activeForeground": "#d7aafd",
+    "textLink.foreground": "#d7aafd",
 
     /* textPreformat. */
     "textPreformat.foreground": "#f6c177",
